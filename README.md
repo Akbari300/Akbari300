@@ -1,5 +1,4 @@
-![Akbari’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Akbari300&show_icons=true&theme=dark)
-![image](https://user-images.githubusercontent.com/32899288/129612595-22da8b7b-6b74-418c-958b-475cb606d879.png)
+![Akbari’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Akbari300&show_icons=true&theme=radical)
 
 
 <!--
