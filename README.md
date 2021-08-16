@@ -1,4 +1,6 @@
-### Hi there 👋
+![Ali Akbari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akbari300&count_private=true)
+![image](https://user-images.githubusercontent.com/32899288/129611918-7e65da1c-dc06-42cb-b21a-8706f355d0c5.png)
+
 
 <!--
 **Akbari300/Akbari300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
