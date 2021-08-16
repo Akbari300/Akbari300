@@ -1,6 +1,7 @@
 ![Akbari’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Akbari300&count_private=true&theme=radical)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Akbari300&layout=compact)](https://github.com/Akbari300/github-readme-stats)
-![image](https://user-images.githubusercontent.com/32899288/129613375-1f9f0fca-3f95-499f-94b2-bbb1de784a6c.png)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akbari300)](https://github.com/ Akbari300/github-readme-stats)
+![image](https://user-images.githubusercontent.com/32899288/129613555-5fd5f35c-2c7c-442a-b713-62d77b9fd454.png)
+
 
 
 
